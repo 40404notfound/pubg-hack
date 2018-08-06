@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (dll6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  dllmain.cpp
+c:\users\qnmlgb\source\repos\dll5\dll5\header.h(98): warning C4005: 'LOBYTE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(206): note: see previous definition of 'LOBYTE'
+c:\users\qnmlgb\source\repos\dll5\dll5\header.h(99): warning C4005: 'LOWORD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(204): note: see previous definition of 'LOWORD'
+c:\users\qnmlgb\source\repos\dll5\dll5\header.h(101): warning C4005: 'HIBYTE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(207): note: see previous definition of 'HIBYTE'
+c:\users\qnmlgb\source\repos\dll5\dll5\header.h(102): warning C4005: 'HIWORD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(205): note: see previous definition of 'HIWORD'
+c:\users\qnmlgb\source\repos\dll5\dll5\dllmain.cpp(83): warning C4244: '=': conversion from 'ull' to 'int', possible loss of data
+c:\users\qnmlgb\source\repos\dll5\dll5\dllmain.cpp(94): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\users\qnmlgb\source\repos\dll5\dll5\dllmain.cpp(124): warning C4244: 'argument': conversion from 'ull' to 'uint32', possible loss of data
+c:\users\qnmlgb\source\repos\dll5\dll5\dllmain.cpp(126): warning C4244: 'argument': conversion from 'ull' to 'uint32', possible loss of data
+c:\users\qnmlgb\source\repos\dll5\dll5\dllmain.cpp(149): warning C4244: 'argument': conversion from 'ull' to 'uint32', possible loss of data
+c:\users\qnmlgb\source\repos\dll5\dll5\dllmain.cpp(179): warning C4309: '=': truncation of constant value
+c:\users\qnmlgb\source\repos\dll5\dll5\dllmain.cpp(180): warning C4309: '=': truncation of constant value
+c:\users\qnmlgb\source\repos\dll5\dll5\dllmain.cpp(181): warning C4309: '=': truncation of constant value
+c:\users\qnmlgb\source\repos\dll5\dll5\dllmain.cpp(182): warning C4309: '=': truncation of constant value
+c:\users\qnmlgb\source\repos\dll5\dll5\dllmain.cpp(183): warning C4309: '=': truncation of constant value
+c:\users\qnmlgb\source\repos\dll5\dll5\dllmain.cpp(184): warning C4309: '=': truncation of constant value
+  Dll5.vcxproj -> C:\Users\qnmlgb\source\repos\Dll5\x64\Debug\dll5.dll
